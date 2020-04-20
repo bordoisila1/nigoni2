@@ -1,0 +1,35 @@
+title = "SB"
+baseURL = "https://www.nigoni.com"
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "./themes"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Calmer everyday"
+  facebook = ""
+  twitter = "https://twitter.com/XNigoni"
+  instagram = "https://www.instagram.com/baruahsantanu/"
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/santanu-baruah-gs/"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  background_color_class = "bg-black"
+  featured_image = "/images/zmt.jpg"
+  recent_posts_number = 2
+  body_classes = "avenir bg-near-white"
