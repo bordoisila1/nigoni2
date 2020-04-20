@@ -13,10 +13,10 @@
     
     <item>
       <title>Volatile Keyword in Java</title>
-      <link>https://www.nigoni.com/post/volatile-keyord/</link>
+      <link>https://www.nigoni.com/post/volatile-keyword/</link>
       <pubDate>Mon, 20 Apr 2020 10:37:36 -0400</pubDate>
       
-      <guid>https://www.nigoni.com/post/volatile-keyord/</guid>
+      <guid>https://www.nigoni.com/post/volatile-keyword/</guid>
       <description>The volatile keyword in java verifies that the variable with that keyword will not be cached by a thread locally, but will be directly read from the main-memory. This means, it is a synchronized variable and at any given point of time ALL threads will see the same copy of it.
 public class VolatileTest { volatile static int counter = 0; public static void main(String[] args) { Thread t1 = new Thread(() -&amp;gt; counter++); Thread t2 = new Thread(() -&amp;gt; System.</description>
     </item>
