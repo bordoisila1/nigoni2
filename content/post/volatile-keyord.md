@@ -1,5 +1,5 @@
 ---
-title: "Volatile Keyord"
+title: "Volatile Keyword in Java"
 date: 2020-04-20T10:37:36-04:00
 ---
 The *volatile* keyword in java verifies that the variable with that keyword will not be cached by a thread locally, but will be directly read from the main-memory. 

@@ -31,5 +31,4 @@ enableRobotsTXT = true
   stackoverflow = ""
   background_color_class = "bg-black"
   featured_image = "/images/zmt.jpg"
-  recent_posts_number = 2
   body_classes = "avenir bg-near-white"
