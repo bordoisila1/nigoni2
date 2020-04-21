@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Multithreading in Java Series - 1</title>
+      <link>https://www.nigoni.com/post/multithreading-1/</link>
+      <pubDate>Mon, 20 Apr 2020 18:28:16 -0400</pubDate>
+      
+      <guid>https://www.nigoni.com/post/multithreading-1/</guid>
+      <description>Hey everyone, this is the first of the many articles that I am about to write regarding Multithreading in Java.
+What is Multithreading ? A way to have multiple threads work in your application to have maximum CPU utilization with minimum interference. Did I say that you don&amp;rsquo;t always have to make your users wait for that loooong&amp;hellip; network call ?
+Why do we need Multithreading ?  Better CPU utilization Better responsiveness of the application  Types of Concurrency Models  Shared State - Well, share, share and, share.</description>
+    </item>
+    
+    <item>
       <title>Atomic Variables in Java</title>
       <link>https://www.nigoni.com/post/atomic-var/</link>
       <pubDate>Mon, 20 Apr 2020 13:15:57 -0400</pubDate>
